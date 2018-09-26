@@ -3,4 +3,14 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="coordXY">#FFF</color>
+    <color name="line_grid_color">#FFF</color>
+    <color name="background_grid_color">#5D6F7D</color>
+    <color name="background_status_bar">#ff000000</color>
+
+    <color name="colorWhite">#FFF</color>
+    <color name="colorWaveFrame">#ff393e41</color>
+    <color name="colorChart">#000000</color>
+    <color name="transparent">#00000000</color>
 </resources>

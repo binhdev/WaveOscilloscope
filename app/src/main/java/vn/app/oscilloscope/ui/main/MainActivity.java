@@ -1,9 +1,10 @@
-package vn.app.oscilloscope;
-
-import android.support.v7.app.AppCompatActivity;
+package vn.app.oscilloscope.ui.main;
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+import vn.app.oscilloscope.R;
+import vn.app.oscilloscope.ui.BaseActivity;
+
+public class MainActivity extends BaseActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

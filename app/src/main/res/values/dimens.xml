@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="status_bar_height">48dip</dimen>
+    <dimen name="status_bar_margin">6.0dip</dimen>
+    <dimen name="status_bar_text_size">18.0sp</dimen>
+    <dimen name="wave_view_margin_x">20.0dip</dimen>
+    <dimen name="marker_width">30.0dip</dimen>
+    <dimen name="marker_height">25.0dip</dimen>
+
+
+    <dimen name="layout_margin">10.0dip</dimen>
+    <dimen name="main_button_size">200.0dip</dimen>
+</resources>
+
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MarkerView">
+        <attr name="marker_position">
+            <enum name="bottom" value="2" />
+            <enum name="left" value="0" />
+            <enum name="right" value="1" />
+        </attr>
+        <attr name="marker_text" format="string" />
+        <attr name="marker_color" format="color" />
+    </declare-styleable>
+
+</resources>
